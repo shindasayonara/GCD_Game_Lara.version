@@ -20,10 +20,9 @@
 - SQLite (встроен в PHP)
 
 ### Локальная установка
-1. Клонируйте репозиторий (если он есть, иначе пропусти этот шаг):
+1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/shindasayonara/GCD_Game_Laravel.git Task04
-   cd Task04
+   git clone https://github.com/shindasayonara/GCD_Game_Laravel.git
    ```
 
 2. Установите зависимости через Composer:
