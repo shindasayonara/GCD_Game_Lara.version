@@ -85,7 +85,6 @@
 
 
 ## Ссылки
-- Packagist: [GCD Game](https://packagist.org/packages/shindasayonara/php_puchkin_iyu)
 - [Репозиторий на GitHub](https://github.com/shindasayonara/GCD_Game_Laravel)
 - Автор: **shindasayonara**
 - Лицензия: **MIT**
